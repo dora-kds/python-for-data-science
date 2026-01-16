@@ -1,0 +1,1 @@
+print("Karnaukh Daria, 2")
